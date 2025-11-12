@@ -1,0 +1,7 @@
+
+.contenedorBonos { margin-top: 0.5rem; padding-top: 0.5rem; }
+.tituloBonos { font-weight: 700; margin-bottom: 0.25rem; }
+.filaBono { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem; }
+.etiquetaBono { min-width: 56px; }
+.entradaBono { width: 6rem; background:#0b0b0b; color:#fff; border:1px solid #333333; border-radius:6px; padding:0.25rem 0.5rem }
+.botonAgregarBono { background: #222222; color: #fff; padding: 0.35rem 0.6rem; border-radius: 6px; border: none; cursor: pointer; }

@@ -1,0 +1,29 @@
+
+.tarjetaEmpresa {
+  background: #0b0b0b;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  padding: 1rem;
+  display: inline-block;
+  color: #ffffff;
+}
+.cabeceraEmpresa {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.nombreEmpresa { font-weight: 700; font-size: 1.125rem; }
+.botonEliminar { background: #222222; color: #fff; border: none; padding: 0.35rem 0.6rem; border-radius: 6px; cursor: pointer; }
+
+.campo { margin-bottom: 0.5rem; }
+.campo label { font-weight: 600; }
+.entradaPagoMensual, .entradaPagoAnual, .entradaDiasAguinaldo, .entradaDiasVacaciones, .entradaPrima {
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 0.25rem 0.5rem;
+  background: #0b0b0b;
+  color: #ffffff;
+}
+.resultado-aguinaldo, .resultado-prima { margin-top: 0.25rem; font-size: 0.9rem; color: #374151; }
+.totalAnual, .totalMensual { margin-top: 0.75rem; }
