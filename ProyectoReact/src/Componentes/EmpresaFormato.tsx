@@ -92,7 +92,7 @@ export default function TarjetaEmpresa({ nombre, onEliminar }: EmpresaProps) {
       </div>
 
       <div className="campo mb-2">
-        <label>Días de aguinaldo:</label>
+        <label>Dias de aguinaldo:</label>
         <input
           type="text"
           className="entradaDiasAguinaldo"
@@ -104,7 +104,7 @@ export default function TarjetaEmpresa({ nombre, onEliminar }: EmpresaProps) {
       </div>
 
       <div className="campo mb-2">
-        <label>Días de vacaciones:</label>
+        <label>Dias de vacaciones:</label>
         <input
           type="text"
           className="entradaDiasVacaciones"
