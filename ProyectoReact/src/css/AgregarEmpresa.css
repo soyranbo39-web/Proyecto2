@@ -1,0 +1,5 @@
+
+.formularioEmpresa { display: flex; gap: 0.5rem; align-items: center; justify-content: center; margin-bottom: 1rem; }
+.etiquetaEmpresa { font-weight: 600; color:#ffffff }
+.entradaEmpresa { border: 1px solid #333333; border-radius: 6px; padding: 0.25rem 0.5rem; width: 220px; background:#0b0b0b; color:#ffffff }
+.botonAgregar { background: #222222; color: #fff; padding: 0.35rem 0.6rem; border-radius: 6px; border: none; cursor: pointer; }
