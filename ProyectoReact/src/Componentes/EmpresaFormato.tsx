@@ -1,5 +1,5 @@
 
-"use client";
+
 import { useState } from "react";
 import ListaBonos from "./BonosEmpresa";
 import MensajeError from "./MensajeErro";
